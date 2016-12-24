@@ -1,9 +1,9 @@
 html {
-  position: relative;
-  min-height: 100%;
+	position: relative;
+	min-height: 100%;
 }
 body {
-  margin-bottom: 35px;
+	margin-bottom: 35px;
 }
 #logo {
 	text-align: center;
@@ -29,13 +29,17 @@ body {
 }
 @media (min-width: 992px) {
  	.top-padding {
-		min-height: 128px;
+		min-height: 10vh;
  	}
  	.navbar-nav .nav-item+.nav-item {
 		margin-left: 0rem;
 	}
 	.navbar-nav .nav-item {
 		float: none;
+	}
+	section {
+		max-height: 75vh;
+		overflow-y: scroll;
 	}
 }
 .footer {
