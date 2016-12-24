@@ -8,6 +8,14 @@ body {
 #logo {
 	text-align: center;
 }
+@media (max-width: 500px) {
+	.navbar {
+		text-align: center;
+	}
+	.navbar-nav {
+		display: inline-block;
+	}
+}
 @media (min-width: 500px) and (max-width: 992px) {
 	.navbar, #logo {
 		display: inline-flex;
