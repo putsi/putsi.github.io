@@ -9,6 +9,9 @@ body {
 	text-align: center;
 }
 @media (max-width: 500px) {
+ 	.top-padding {
+		min-height: 10px;
+ 	}
 	.navbar {
 		text-align: center;
 	}
@@ -17,6 +20,9 @@ body {
 	}
 }
 @media (min-width: 500px) and (max-width: 992px) {
+ 	.top-padding {
+		min-height: 10px;
+ 	}
 	.navbar, #logo {
 		display: inline-flex;
 	}
