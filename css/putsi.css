@@ -1,0 +1,21 @@
+@media (min-width: 992px) {
+ 	.top-padding {
+		min-height: 128px;
+ 	}
+}
+ .navbar-nav .nav-item+.nav-item {
+	margin-left: 0rem;
+}
+.navbar-nav .nav-item {
+	float: none;
+}
+.footer {
+ 	position: absolute;
+ 	bottom: 1px;
+ 	width: 100%;
+ 	/* Set the fixed height of the footer here */
+ 	height: 35px;
+ 	line-height: 35px;
+ 	/* Vertically center the text there */
+ 	text-align: center;
+}
