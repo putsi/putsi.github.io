@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/putsi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://put.si
+  * I am putsi (https://keybase.io/putsi) on keybase.
+  * I have a public key with fingerprint A24F 01B0 000C B009 9475  31D3 B476 15FD 0B3D DCC6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014d8ec9f39c1d02fd63489c7173495c9eabeb3efc82f6fc6c638e539c24ca0e490a",
+            "fingerprint": "a24f01b0000cb009947531d3b47615fd0b3ddcc6",
+            "host": "keybase.io",
+            "key_id": "b47615fd0b3ddcc6",
+            "kid": "01014d8ec9f39c1d02fd63489c7173495c9eabeb3efc82f6fc6c638e539c24ca0e490a",
+            "uid": "a3d0d3510519aa252b541f7505ca5219",
+            "username": "putsi"
+        },
+        "service": {
+            "hostname": "put.si",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1482599047,
+    "expire_in": 157680000,
+    "prev": "b4c433478f7d98902f0a099507d03352bc5999a625801a0baf65c6bbec3b0105",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMIdAnicrVJfSBRBHD4768rQLKIoUGRLLLxk9s/s7lxhnRlm9CBRGqRduzOzupS3
+293eVehlEWQgKBVSKBGRPWRXUShRhqf9D6Po70Nk+pQPEeFDEZjV7FH00mPzMMP8
+ft/3zff7mHvZXk9WxsLRsc64Z3xexshwe8yzfWdvaxOnW+QAF2jidtP0QfcQGnVC
+u03CBTjAA14iKsXIEBHmCRAMIouSirDCK6KEIEZU06kuUgOrgiEbWMayqFLI0IKE
+NUAlBDTOzxlmuJ5G7IgZdpisJkgG4HXAFmY7QpICRZ6IuqTIPDQI0EVCMJYZscGK
+ugxmTteitMS0WI1dQml7/8D/Z9+xtJwmEkBEyAPII00ToKBDiTcUCCDWoMAjFxil
+kbDWSBnajjlRk0v4OVaKm5i6qbpj/G2XsL6fsyOWY2FrD6s1OI4dcCnOAdvF7KN6
+6Dc7pJthwtJjhDiNRE0rzAV4hsSO6crxkipAhICk+Dm63zYjNGS6CKjIqpuv+wyN
+p7PCkihKimooBKmIJQI0ljwECgGiyEbCTAZpsgBVwGtA1wwZYlnXKRZ1Fifk3Hn2
+hi2mzTOfWj3TjJr1Yc2JRSiXuDNUm+nJyPLMmjnD/VaerDm5fz5b8W3fz8q1xf3m
+xOmhpzfDvRcHnZr+75VLjfwlRUdG15ctLW+Lv5tacWbD4/Jjz1LByOyS7ruTI2hw
++aWq+ktdjTUDuz61vDV63sc6HgxX/0iiwborHS/HVxXE6k6OnX+y41RVdnWB/KE9
+R+l7ZW+yc8hjX+bwo5rU91tJu+V1S3eq50R/sj3P2+pdl/+Cq50/8uZjpzL+wt6L
+20qP84d999WMy0ftBTu3nlsdvJC6njelZpbObQ5WrGzqOfQlMPZw0cauVF6p9S0Z
+nDIG2pOFi3NXoDWJZd0+9bNe9PXG67Ln3mn/tYnJbRVSofjz+QzfmkTfFjJdfXXK
+13V3qDlwUNk8cfYXgl47AQ==
+=j4gT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/putsi
+
+==================================================================
+
