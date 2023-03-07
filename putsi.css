@@ -73,12 +73,12 @@ h1,h2,h3 {
 	clip: rect(0, 900px, 0, 0);
 }
 .glitch:after {
-	animation: noise-anim 2s infinite linear alternate-reverse;
+	animation: noise-anim 3s infinite linear alternate-reverse;
 	left: 2px;
 	text-shadow: 1px 0 red;
 }
 .glitch:before {
-	animation: noise-anim-2 3s infinite linear alternate-reverse;
+	animation: noise-anim-2 4s infinite linear alternate-reverse;
 	left: -2px;
 	text-shadow: -1px 0 limegreen;
 }
