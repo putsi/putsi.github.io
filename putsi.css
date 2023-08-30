@@ -8,6 +8,9 @@
   .display-4 {
     font-size: 3.0rem !important;
   }
+  .mobsmall {
+    font-size: 1.0rem;
+  }
 }
 html, body {
         height: 100%;
